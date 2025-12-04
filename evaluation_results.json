@@ -1,0 +1,160 @@
+{
+  "metrics": {
+    "total_questions": 10,
+    "successful_retrievals": 10,
+    "hit_rate": 1.0,
+    "average_latency": 21.93356246948242
+  },
+  "results": [
+    {
+      "question": "How long do I let kombucha sit in a warm dark spot for?",
+      "answer": " You let the kombucha sit in a warm dark spot for another 3-14 days.",
+      "sources": [
+        "kombucha.txt",
+        "kombucha.txt",
+        "kombucha.txt"
+      ],
+      "contexts": [
+        "tarter. Rinse the jar and remove parts of the scoby once in a while.\n    If you wish you can add juices, fruits, or spices to your brew. These will partially ferment and add a special character to your kombucha. One nice addition is apple and cinnamon mixed in with green tea.\n    Let the bottles sit in a warm dark spot for another 3-14 days; the carbonation process will continue, so make sure to release pressure from the bottles every other day.\n    When you are satisfied with the carbonation an",
+        "tarter. Rinse the jar and remove parts of the scoby once in a while.\n    If you wish you can add juices, fruits, or spices to your brew. These will partially ferment and add a special character to your kombucha. One nice addition is apple and cinnamon mixed in with green tea.\n    Let the bottles sit in a warm dark spot for another 3-14 days; the carbonation process will continue, so make sure to release pressure from the bottles every other day.\n    When you are satisfied with the carbonation an",
+        "    When you are satisfied with the carbonation and the flavor, put the bottles in the fridge. Here you can store them for weeks at a time.\n    Enjoy your kombucha, rinse, and repeat.\n\nContributor(s)\n\n    Elias Pahls\n\n"
+      ],
+      "time": 12.698834896087646
+    },
+    {
+      "question": "For the fajitas recipe, how long should you grill the meat on each side over a medium-high flame before it is sliced?",
+      "answer": " The meat should be grilled for 4-5 minutes per side over a medium-high flame before it is sliced.",
+      "sources": [
+        "fajitas.txt",
+        "fajitas.txt",
+        "fajitas.txt"
+      ],
+      "contexts": [
+        " Fajitas\n\n    \u23f2\ufe0f Prep time: 20 min\n    \ud83c\udf73 Cook time:15 min\n    \ud83c\udf7d\ufe0f Servings: 4\n\nIngredients\n\n    1/4 cup + 1/2 tsp Lime Juice, divided\n    3 Tbsp Olive Oil, divided\n    4 cloves Garlic, crushed\n    3 tsp Soy Sauce, divided\n    1 tsp Salt\n    1/2 tsp Liquid Smoke\n    1/2 tsp Cayenne Pepper\n    1/4 tsp Black Pepper\n    1 lb Chicken Breasts or Skirt Steak, bones/skin removed\n    2 Tbsp Water\n    1 large Spanish Onion, thinly sliced\n    1/2 each Green, Red, and Yellow Bell Pepper, thinly sliced\n\nDirec",
+        " Fajitas\n\n    \u23f2\ufe0f Prep time: 20 min\n    \ud83c\udf73 Cook time:15 min\n    \ud83c\udf7d\ufe0f Servings: 4\n\nIngredients\n\n    1/4 cup + 1/2 tsp Lime Juice, divided\n    3 Tbsp Olive Oil, divided\n    4 cloves Garlic, crushed\n    3 tsp Soy Sauce, divided\n    1 tsp Salt\n    1/2 tsp Liquid Smoke\n    1/2 tsp Cayenne Pepper\n    1/4 tsp Black Pepper\n    1 lb Chicken Breasts or Skirt Steak, bones/skin removed\n    2 Tbsp Water\n    1 large Spanish Onion, thinly sliced\n    1/2 each Green, Red, and Yellow Bell Pepper, thinly sliced\n\nDirec",
+        " Red, and Yellow Bell Pepper, thinly sliced\n\nDirections\n\n    Combine 1/4 cup lime juice, 2 Tbsp of the oil, garlic, 2 tsp soy sauce, the salt, liquid smoke, cayenne pepper, and black pepper in a resealable container, add chicken/steak, cover, and refrigerate for at least 2 hours or overnight.\n    Combine water, remaining soy sauce and lime juice, and a dash of salt and pepper - set aside.\n    Grill meat over a medium-high flame for 4-5 minutes per side, or until cooked through.\n    Cut meat into"
+      ],
+      "time": 21.302913665771484
+    },
+    {
+      "question": "What can I serve my fajitas with?",
+      "answer": " You can serve your Fajitas with French bread, as suggested in the Jambalaya recipe.",
+      "sources": [
+        "fajitas.txt",
+        "fajitas.txt",
+        "shrimp_chicken_jambalaya.txt"
+      ],
+      "contexts": [
+        " Fajitas\n\n    \u23f2\ufe0f Prep time: 20 min\n    \ud83c\udf73 Cook time:15 min\n    \ud83c\udf7d\ufe0f Servings: 4\n\nIngredients\n\n    1/4 cup + 1/2 tsp Lime Juice, divided\n    3 Tbsp Olive Oil, divided\n    4 cloves Garlic, crushed\n    3 tsp Soy Sauce, divided\n    1 tsp Salt\n    1/2 tsp Liquid Smoke\n    1/2 tsp Cayenne Pepper\n    1/4 tsp Black Pepper\n    1 lb Chicken Breasts or Skirt Steak, bones/skin removed\n    2 Tbsp Water\n    1 large Spanish Onion, thinly sliced\n    1/2 each Green, Red, and Yellow Bell Pepper, thinly sliced\n\nDirec",
+        " Fajitas\n\n    \u23f2\ufe0f Prep time: 20 min\n    \ud83c\udf73 Cook time:15 min\n    \ud83c\udf7d\ufe0f Servings: 4\n\nIngredients\n\n    1/4 cup + 1/2 tsp Lime Juice, divided\n    3 Tbsp Olive Oil, divided\n    4 cloves Garlic, crushed\n    3 tsp Soy Sauce, divided\n    1 tsp Salt\n    1/2 tsp Liquid Smoke\n    1/2 tsp Cayenne Pepper\n    1/4 tsp Black Pepper\n    1 lb Chicken Breasts or Skirt Steak, bones/skin removed\n    2 Tbsp Water\n    1 large Spanish Onion, thinly sliced\n    1/2 each Green, Red, and Yellow Bell Pepper, thinly sliced\n\nDirec",
+        " Shrimp and Chicken Jambalaya\n\nWarm up your stock with raw shrimp shells to infuse additional flavour, if desired. Serve dish with french bread and your favourite beer.\n\n    \u23f2\ufe0f Prep time: 20 min\n    \ud83c\udf73 Cook time: 40 min\n\nIngredients\n\n    1/4 tsp Cayenne\n    3/4 tsp White Pepper\n    1 tsp Kosher Salt\n    1/4 tsp Thyme\n    1/2 tsp Rubbed Sage\n    1/4 tsp Dried Basil\n    1/2 tsp Black Pepper\n    1 Tbsp Unsalted Butter\n    1/2 cup Diced Andouille (or Chirozo sausage)\n    1/2 cup Diced Onion\n    1/2 c"
+      ],
+      "time": 9.010335445404053
+    },
+    {
+      "question": "In the ratatouille recipe, what herb blend is used to season the tomato mixture before adding the eggplant and zucchini?",
+      "answer": " The herb blend used to season the tomato mixture in the Ratatouille recipe is Herbes de Provence, which includes Basil, Thyme, and Parsley.",
+      "sources": [
+        "ratatouille.txt",
+        "ratatouille.txt",
+        "gypsy_soup.txt"
+      ],
+      "contexts": [
+        " Ratatouille\n\n    \u23f2\ufe0f Prep time: 12 min\n    \ud83c\udf73 Cook time: 75 min\n    \ud83c\udf7d\ufe0f Servings: 12\n\nIngredients\n\n    3 1/2 lbs Tomatoes\n    1 1/2 lbs Eggplant\n    1 lb Zucchini\n    3 Bell Peppers\n    2 lbs Onions\n    6 cloves Garlic\n    Herbes de Provence (Basil, Thyme, Parsley)\n    Olive Oil\n    Salt\n    Pepper\n    140g Tomato Paste (optional if tomatoes aren\u2019t yummy)\n\nDirections\n\n    Peel and drain the tomatoes (don\u2019t mind the seeds): cut out the stem cores; drop the whole tomatoes into boiling water for 2 mi",
+        " Ratatouille\n\n    \u23f2\ufe0f Prep time: 12 min\n    \ud83c\udf73 Cook time: 75 min\n    \ud83c\udf7d\ufe0f Servings: 12\n\nIngredients\n\n    3 1/2 lbs Tomatoes\n    1 1/2 lbs Eggplant\n    1 lb Zucchini\n    3 Bell Peppers\n    2 lbs Onions\n    6 cloves Garlic\n    Herbes de Provence (Basil, Thyme, Parsley)\n    Olive Oil\n    Salt\n    Pepper\n    140g Tomato Paste (optional if tomatoes aren\u2019t yummy)\n\nDirections\n\n    Peel and drain the tomatoes (don\u2019t mind the seeds): cut out the stem cores; drop the whole tomatoes into boiling water for 2 mi",
+        "hopped Fresh Tomatoes\n    3/4 cup Chopped Sweet Peppers\n    1-1/2 cup Cooked Chickpeas\n    3 cup Stock or Water\n    2 tsp Paprika\n    1 tsp Turmeric\n    1 tsp Basil\n    1 tsp Salt\n    dash Cinnamon\n    dash Cayenne\n    1 Bay Leaf\n    1 Tbsp Tamari Soy Sauce\n\nDirections\n\n    In a soup kettle or large saucepan, saute onions garlic, celery, and sweet potatoes in olive oil for about five minutes.\n    Add seasonings, except tamari, and the stock/water. Simmer covered, for fifteen minutes.\n    Add rem"
+      ],
+      "time": 23.60370945930481
+    },
+    {
+      "question": "In the winter risotto recipe, what specific type of rice is used as the base of the dish?",
+      "answer": " The Winter Risotto recipe uses Arborio Rice as the base of the dish.",
+      "sources": [
+        "winter_risotto.txt",
+        "winter_risotto.txt",
+        "winter_risotto.txt"
+      ],
+      "contexts": [
+        " Winter Risotto\n\n    \u23f2\ufe0f Prep time: 15 min\n    \ud83c\udf73 Cook time: 40 min\n    \ud83c\udf7d\ufe0f Servings: 4\n\nIngredients\n\n    3/4 cup Arborio Rice\n    1 cup Baby Spinach\n    2 Garlic Cloves\n    4 1/2 cup Vegetable Broth\n    1/4 cup Parmesan Cheese, shredded\n    1/2 lb Baby Tomatoes\n    1 Tbsp White Wine Vinegar\n    1/4 cup Walnuts, chopped\n    1/2 cup Leek, sliced\n    1 cup Mushrooms\n    3 Tbsp Unsalted Butter\n\nDirections\n\n    Combine vegetable broth in a medium pot. Cover and bring to a gentle boil over medium heat. ",
+        " Winter Risotto\n\n    \u23f2\ufe0f Prep time: 15 min\n    \ud83c\udf73 Cook time: 40 min\n    \ud83c\udf7d\ufe0f Servings: 4\n\nIngredients\n\n    3/4 cup Arborio Rice\n    1 cup Baby Spinach\n    2 Garlic Cloves\n    4 1/2 cup Vegetable Broth\n    1/4 cup Parmesan Cheese, shredded\n    1/2 lb Baby Tomatoes\n    1 Tbsp White Wine Vinegar\n    1/4 cup Walnuts, chopped\n    1/2 cup Leek, sliced\n    1 cup Mushrooms\n    3 Tbsp Unsalted Butter\n\nDirections\n\n    Combine vegetable broth in a medium pot. Cover and bring to a gentle boil over medium heat. ",
+        "he medium pot to the pan with rice. Stir until broth has been absorbed by rice. Continue adding broth 1 cup at a time, stirring regularly, until liquid is absorbed, the texture is creamy and the rice is tender (28-30 mins).\n    While risotto cooks, add tomatoes and a tablespoon of oil to a parchment-lined baking sheet. Season with salt and pepper, then toss to coat. Roast on the middle rack of the oven until tomatoes start to burst (10-11 mins).\n    When the last cup of broth has been absorbed a"
+      ],
+      "time": 20.274203062057495
+    },
+    {
+      "question": "Which dish is most like my grandmother's cooking?",
+      "answer": " Based on the provided context, it is not possible to definitively determine if any of these dishes are similar to your grandmother's cooking as her recipe is not given. However, the Shrimp and Chicken Jambalaya may have some similarities with traditional Southern or Creole cuisine, which could potentially resemble some aspects of your grandmother's cooking, especially considering that it includes a mix of seafood and spices. The Turkish-Style Spiced Chicken recipe, on the other hand, appears to be more Middle Eastern in inspiration. If your grandmother was from the Southern United States or had influences from Creole cuisine, the Shrimp and Chicken Jambalaya might be closer to her cooking style.",
+      "sources": [
+        "shrimp_chicken_jambalaya.txt",
+        "shrimp_chicken_jambalaya.txt",
+        "turkish_spiced_chicken.txt"
+      ],
+      "contexts": [
+        " Shrimp and Chicken Jambalaya\n\nWarm up your stock with raw shrimp shells to infuse additional flavour, if desired. Serve dish with french bread and your favourite beer.\n\n    \u23f2\ufe0f Prep time: 20 min\n    \ud83c\udf73 Cook time: 40 min\n\nIngredients\n\n    1/4 tsp Cayenne\n    3/4 tsp White Pepper\n    1 tsp Kosher Salt\n    1/4 tsp Thyme\n    1/2 tsp Rubbed Sage\n    1/4 tsp Dried Basil\n    1/2 tsp Black Pepper\n    1 Tbsp Unsalted Butter\n    1/2 cup Diced Andouille (or Chirozo sausage)\n    1/2 cup Diced Onion\n    1/2 c",
+        " Shrimp and Chicken Jambalaya\n\nWarm up your stock with raw shrimp shells to infuse additional flavour, if desired. Serve dish with french bread and your favourite beer.\n\n    \u23f2\ufe0f Prep time: 20 min\n    \ud83c\udf73 Cook time: 40 min\n\nIngredients\n\n    1/4 tsp Cayenne\n    3/4 tsp White Pepper\n    1 tsp Kosher Salt\n    1/4 tsp Thyme\n    1/2 tsp Rubbed Sage\n    1/4 tsp Dried Basil\n    1/2 tsp Black Pepper\n    1 Tbsp Unsalted Butter\n    1/2 cup Diced Andouille (or Chirozo sausage)\n    1/2 cup Diced Onion\n    1/2 c",
+        " Turkish-Style Spiced Chicken\n\n    \u23f2\ufe0f Prep time: 10 min\n    \ud83c\udf73 Cook time: 30 min\n    \ud83c\udf7d\ufe0f Servings: 4\n\nIngredients\n\n    2 Chicken Breasts\n    1 Tbsp Turkish Spice Blend\n    1 oz Almonds, sliced\n    3/4 cup Basmati Rice\n    12 oz Sweet Potato\n    2 oz Onion, chopped\n    100 mL Greek Yogurt\n    2 Tbsp Parsley\n    1 Lemon\n    1/2 tsp Garlic Salt\n    1 1/2 cup Chicken Broth\n    1 tsp Sugar\n\nDirections\n\n    Cut sweet potatoes into 1/2 inch pieces. Combine and toss sweet potatoes, half the onions, half t"
+      ],
+      "time": 37.018436431884766
+    },
+    {
+      "question": "Which dish goes well with beer?",
+      "answer": " Shrimp and Chicken Jambalaya goes well with beer.",
+      "sources": [
+        "shrimp_chicken_jambalaya.txt",
+        "shrimp_chicken_jambalaya.txt",
+        "fajitas.txt"
+      ],
+      "contexts": [
+        " Shrimp and Chicken Jambalaya\n\nWarm up your stock with raw shrimp shells to infuse additional flavour, if desired. Serve dish with french bread and your favourite beer.\n\n    \u23f2\ufe0f Prep time: 20 min\n    \ud83c\udf73 Cook time: 40 min\n\nIngredients\n\n    1/4 tsp Cayenne\n    3/4 tsp White Pepper\n    1 tsp Kosher Salt\n    1/4 tsp Thyme\n    1/2 tsp Rubbed Sage\n    1/4 tsp Dried Basil\n    1/2 tsp Black Pepper\n    1 Tbsp Unsalted Butter\n    1/2 cup Diced Andouille (or Chirozo sausage)\n    1/2 cup Diced Onion\n    1/2 c",
+        " Shrimp and Chicken Jambalaya\n\nWarm up your stock with raw shrimp shells to infuse additional flavour, if desired. Serve dish with french bread and your favourite beer.\n\n    \u23f2\ufe0f Prep time: 20 min\n    \ud83c\udf73 Cook time: 40 min\n\nIngredients\n\n    1/4 tsp Cayenne\n    3/4 tsp White Pepper\n    1 tsp Kosher Salt\n    1/4 tsp Thyme\n    1/2 tsp Rubbed Sage\n    1/4 tsp Dried Basil\n    1/2 tsp Black Pepper\n    1 Tbsp Unsalted Butter\n    1/2 cup Diced Andouille (or Chirozo sausage)\n    1/2 cup Diced Onion\n    1/2 c",
+        "r side, or until cooked through.\n    Cut meat into thin strips - set aside and keep warm.\n    In a large skillet over medium-high heat, cook onion and peppers in remaining oil until brown - remove from heat and pour reserved liquid mixture over onions and peppers.\n    Toss together meat, onions, and peppers.\n    Can serve with warm tortillas, pico de gallo, cheese, sour cream, and guacamole.\n\nContributor(s)\n\n    Joel Maxuel"
+      ],
+      "time": 6.15876317024231
+    },
+    {
+      "question": "Which recipes have sweet potato in them?",
+      "answer": " The recipes that have sweet potato in them are the one provided in the context, which is titled \"Gypsy Soup\". In this recipe, the sweet potatoes are chopped and peeled along with other vegetables.",
+      "sources": [
+        "turkish_spiced_chicken.txt",
+        "turkish_spiced_chicken.txt",
+        "gypsy_soup.txt"
+      ],
+      "contexts": [
+        "e and toss sweet potatoes, half the onions, half the garlic salt, and a tablespoon of oil. Lay to a baking sheet and roast on the middle rack of the oven, stirring halfway through until golden brown (12-22 mins).\n    While sweet potatoes roast, heat a medium pot over medium-high heat. When hot, add a tablespoon of oil and remaining onions. Cook, stirring often until fragrant (1 min). Add chicken broth and rice, cover, and bring to a boil over high heat. Once boiling, reduce heat to low and leave",
+        "e and toss sweet potatoes, half the onions, half the garlic salt, and a tablespoon of oil. Lay to a baking sheet and roast on the middle rack of the oven, stirring halfway through until golden brown (12-22 mins).\n    While sweet potatoes roast, heat a medium pot over medium-high heat. When hot, add a tablespoon of oil and remaining onions. Cook, stirring often until fragrant (1 min). Add chicken broth and rice, cover, and bring to a boil over high heat. Once boiling, reduce heat to low and leave",
+        " Gypsy Soup\n\nThe vegetables used in this soup are flexible. Any orange vegetable can be combined with green. Such as peas or green beans to replace peppers, or carrots and/or squash to replace the sweet potato.\n\n    \u23f2\ufe0f Prep time: 40 min\n    \ud83c\udf73 Cook time: 30 min\n    \ud83c\udf7d\ufe0f Servings: 4\n\nIngredients\n\n    3 Tbsp Olive Oil\n    2 cup Chopped Onion\n    2 cloves Chopped Garlic\n    2 cup Sweet Potatoes, chopped and peeled\n    1/2 cup Chopped Celery\n    1 cup Chopped Fresh Tomatoes\n    3/4 cup Chopped Sweet Pe"
+      ],
+      "time": 19.215482711791992
+    },
+    {
+      "question": "How do I finish the winter risotto?",
+      "answer": " To finish the Winter Risotto, follow these steps:\n\n1. While the risotto cooks, add tomatoes and a tablespoon of oil to a parchment-lined baking sheet. Season with salt and pepper, then toss to coat. Roast on the middle rack of the oven until tomatoes start to burst (approximately 10-11 minutes).\n\n2. When the last cup of broth has been absorbed by the rice, stir in the sliced leeks, mushrooms, minced garlic, and white wine vinegar. Cook for about 5 minutes or until the vegetables are tender.\n\n3. Remove the pan from heat and stir in the shredded Parmesan cheese, chopped walnuts, and baby spinach. Stir continuously until the cheese melts and the spinach wilts (about 2-3 minutes).\n\n4. Gently fold in the roasted tomatoes into the risotto before serving. Enjoy your Winter Risotto!",
+      "sources": [
+        "winter_risotto.txt",
+        "winter_risotto.txt",
+        "winter_risotto.txt"
+      ],
+      "contexts": [
+        " Winter Risotto\n\n    \u23f2\ufe0f Prep time: 15 min\n    \ud83c\udf73 Cook time: 40 min\n    \ud83c\udf7d\ufe0f Servings: 4\n\nIngredients\n\n    3/4 cup Arborio Rice\n    1 cup Baby Spinach\n    2 Garlic Cloves\n    4 1/2 cup Vegetable Broth\n    1/4 cup Parmesan Cheese, shredded\n    1/2 lb Baby Tomatoes\n    1 Tbsp White Wine Vinegar\n    1/4 cup Walnuts, chopped\n    1/2 cup Leek, sliced\n    1 cup Mushrooms\n    3 Tbsp Unsalted Butter\n\nDirections\n\n    Combine vegetable broth in a medium pot. Cover and bring to a gentle boil over medium heat. ",
+        " Winter Risotto\n\n    \u23f2\ufe0f Prep time: 15 min\n    \ud83c\udf73 Cook time: 40 min\n    \ud83c\udf7d\ufe0f Servings: 4\n\nIngredients\n\n    3/4 cup Arborio Rice\n    1 cup Baby Spinach\n    2 Garlic Cloves\n    4 1/2 cup Vegetable Broth\n    1/4 cup Parmesan Cheese, shredded\n    1/2 lb Baby Tomatoes\n    1 Tbsp White Wine Vinegar\n    1/4 cup Walnuts, chopped\n    1/2 cup Leek, sliced\n    1 cup Mushrooms\n    3 Tbsp Unsalted Butter\n\nDirections\n\n    Combine vegetable broth in a medium pot. Cover and bring to a gentle boil over medium heat. ",
+        "he medium pot to the pan with rice. Stir until broth has been absorbed by rice. Continue adding broth 1 cup at a time, stirring regularly, until liquid is absorbed, the texture is creamy and the rice is tender (28-30 mins).\n    While risotto cooks, add tomatoes and a tablespoon of oil to a parchment-lined baking sheet. Season with salt and pepper, then toss to coat. Roast on the middle rack of the oven until tomatoes start to burst (10-11 mins).\n    When the last cup of broth has been absorbed a"
+      ],
+      "time": 42.07932901382446
+    },
+    {
+      "question": "Which dish takes the longest to prepare and how long (excluding the kombucha)?",
+      "answer": " The Shrimp and Chicken Jambalaya takes the longest to prepare, with a total time of 1 hour (prep time of 20 minutes + cook time of 40 minutes). However, the question excludes the preparation time for kombucha, which was not provided in the context.",
+      "sources": [
+        "shrimp_chicken_jambalaya.txt",
+        "shrimp_chicken_jambalaya.txt",
+        "winter_risotto.txt"
+      ],
+      "contexts": [
+        " Shrimp and Chicken Jambalaya\n\nWarm up your stock with raw shrimp shells to infuse additional flavour, if desired. Serve dish with french bread and your favourite beer.\n\n    \u23f2\ufe0f Prep time: 20 min\n    \ud83c\udf73 Cook time: 40 min\n\nIngredients\n\n    1/4 tsp Cayenne\n    3/4 tsp White Pepper\n    1 tsp Kosher Salt\n    1/4 tsp Thyme\n    1/2 tsp Rubbed Sage\n    1/4 tsp Dried Basil\n    1/2 tsp Black Pepper\n    1 Tbsp Unsalted Butter\n    1/2 cup Diced Andouille (or Chirozo sausage)\n    1/2 cup Diced Onion\n    1/2 c",
+        " Shrimp and Chicken Jambalaya\n\nWarm up your stock with raw shrimp shells to infuse additional flavour, if desired. Serve dish with french bread and your favourite beer.\n\n    \u23f2\ufe0f Prep time: 20 min\n    \ud83c\udf73 Cook time: 40 min\n\nIngredients\n\n    1/4 tsp Cayenne\n    3/4 tsp White Pepper\n    1 tsp Kosher Salt\n    1/4 tsp Thyme\n    1/2 tsp Rubbed Sage\n    1/4 tsp Dried Basil\n    1/2 tsp Black Pepper\n    1 Tbsp Unsalted Butter\n    1/2 cup Diced Andouille (or Chirozo sausage)\n    1/2 cup Diced Onion\n    1/2 c",
+        " Winter Risotto\n\n    \u23f2\ufe0f Prep time: 15 min\n    \ud83c\udf73 Cook time: 40 min\n    \ud83c\udf7d\ufe0f Servings: 4\n\nIngredients\n\n    3/4 cup Arborio Rice\n    1 cup Baby Spinach\n    2 Garlic Cloves\n    4 1/2 cup Vegetable Broth\n    1/4 cup Parmesan Cheese, shredded\n    1/2 lb Baby Tomatoes\n    1 Tbsp White Wine Vinegar\n    1/4 cup Walnuts, chopped\n    1/2 cup Leek, sliced\n    1 cup Mushrooms\n    3 Tbsp Unsalted Butter\n\nDirections\n\n    Combine vegetable broth in a medium pot. Cover and bring to a gentle boil over medium heat. "
+      ],
+      "time": 27.9736168384552
+    }
+  ]
+}

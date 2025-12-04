@@ -134,7 +134,7 @@ class LLM:
     """
 
     def __init__(self, base_url: str = "http://127.0.0.1:11434",
-                 model: str = "mistral"):
+                 model: str = "mistral:7b"):
         """Initialize connection to Ollama LLM."""
         self.base_url = base_url
         self.model = model
